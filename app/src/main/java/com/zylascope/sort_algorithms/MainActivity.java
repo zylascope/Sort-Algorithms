@@ -3,8 +3,9 @@ package com.zylascope.sort_algorithms;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.os.Debug;
 import android.util.Log;
+
+//Algorithms - Selection Sort, Insertion Sort
 
 class Selection extends Example
 {
