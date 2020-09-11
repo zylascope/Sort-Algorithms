@@ -34,7 +34,8 @@ class Insertion extends Example {
     }
 }
 
-    public class MainActivity extends AppCompatActivity {
+
+public class MainActivity extends AppCompatActivity {
 
         int N = 8;
 
